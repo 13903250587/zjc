@@ -1,0 +1,14 @@
+body,html,h2,p,ul,ol{
+    margin: 0;
+}
+ul,ol{
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
